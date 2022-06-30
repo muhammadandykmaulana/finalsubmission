@@ -12,7 +12,7 @@
 # below:
 .git
 .gitignore
-.serviceaccountkey.json
+serviceaccountkey.json
 
 # Node.js dependencies:
 node_modules/
